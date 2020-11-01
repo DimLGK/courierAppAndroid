@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Courier Driver</string>
+    <string name="title_activity_maps">Χάρτης</string>
+    <string name="search_area">Αναζήτηση τοποθεσίας ή διεύθυνσης</string>
+    <string name="add_marker">Προσθήκη νέας πινέζας</string>
+    <string name="title">Τίτλος</string>
+    <string name="delivered">Παραδώθηκε: </string>
+    <string name="information">Πληροφορίες</string>
+    <string name="current_location">Current location</string>
+    <string name="new_marker">Νέα πινέζα</string>
+    <string name="save">Αποθήκευση</string>
+    <string name="remove">Αφαίρεση</string>
+    <string name="Location_Permission_Denied">Απορρίφθηκαν τα δικαιώματα τοποθεσίας</string>
+    <string name="Location_Permission_Message">Μεταβείτε στις ρυθμίσεις για την ενεργοποίηση των υπηρεσιών τοποθεσίας.</string>
+    <string name="no_address_found">Άγνωστη διεύθυνση ή περιοχή</string>
+    <string name="error_on_searching_address">Σφάλμα! Παρακαλώ δοκιμάστε αργότερα.</string>
+</resources>

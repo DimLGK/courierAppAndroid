@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "957434674998",
+    "firebase_url": "https://courierdriver.firebaseio.com",
+    "project_id": "courierdriver",
+    "storage_bucket": "courierdriver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957434674998:android:e9fbcdb3e53a90983abd97",
+        "android_client_info": {
+          "package_name": "com.hou.courierdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957434674998-ut1hqq7icngkln53hm2ee20d8dqtala4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXQpXbGoClVSK9WA7e5BAzoxWJnMMSrdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957434674998-ut1hqq7icngkln53hm2ee20d8dqtala4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

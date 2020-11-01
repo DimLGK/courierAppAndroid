@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Courier Driver</string>
+    <string name="title_activity_maps">Courier Map</string>
+    <string name="search_area">Search area or address</string>
+    <string name="add_marker">Add new marker</string>
+    <string name="title">Title</string>
+    <string name="delivered">Delivered: </string>
+    <string name="information">Information</string>
+    <string name="current_location">Current location</string>
+    <string name="new_marker">New marker</string>
+    <string name="save">Save</string>
+    <string name="remove">Remove</string>
+    <string name="Location_Permission_Denied">Location permission denied</string>
+    <string name="Location_Permission_Message">Please go to settings and enable locations services.</string>
+    <string name="no_address_found">Unknown address or area</string>
+    <string name="error_on_searching_address">Unknown error! Please try again later.</string>
+</resources>
